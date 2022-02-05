@@ -11,7 +11,7 @@ export const Dashboard = ({users}) => (
                 <article class="tile is-child box">
                 <p class="title">Your Stats</p>
                 <p class="subtitle">Awesome! You are healthy.</p>
-                You were last helped by your friend Robin Robinson when your alert was sent @<time>6:34 PM - 6 February 2022</time>. Enjoy your day!
+                You were last helped by your friend Robin Robinson when your alert was sent @<time>12:34 PM - 6 February 2022</time>. Enjoy your day!
                 </article>
             </div>
             <div class="tile is-parent">
