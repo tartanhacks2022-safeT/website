@@ -1,0 +1,33 @@
+{
+  "name": "tartanhacks2022-weirdoughs",
+  "version": "1.0.0",
+  "description": "slice slice baby 🍕",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "dev": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jespiron/tartanhacks2022-weirdoughs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jespiron/tartanhacks2022-weirdoughs/issues"
+  },
+  "homepage": "https://github.com/jespiron/tartanhacks2022-weirdoughs#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.7"
+  }
+}
